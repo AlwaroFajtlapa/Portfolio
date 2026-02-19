@@ -11,9 +11,9 @@ Cześć jestem Tom223
 
 * **📊 Tab & Scoreboard:** 
 
-* **📜 Skrypt Dev:** P
+* **📜 Skrypt Dev:** 
 
-* **🤖 Bot Dev:** T
+* **🤖 Bot Dev:** 
 
 * **💬 Discord Creator:** 
 
