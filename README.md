@@ -1,65 +1,73 @@
-<div align="center">
+<<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=b3e5fc&height=250&section=header&text=Twoja%20Nazwa&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=200&section=header&text=CREATIVE%20DEVELOPMENT&fontSize=60&fontAlignY=50&fontColor=b3e5fc&animation=fadeIn" width="100%" />
 
-### ☁️ Premium Creator | Bot Developer | Skript Developer
-*Pasja do optymalizacji i czystego kodu w świecie Minecrafta.*
-
----
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWÓJ_USER&layout=compact&theme=react&bg_color=ffffff&border_color=b3e5fc&title_color=03a9f4&text_color=546e7a" alt="Top Langs" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=TWÓJ_USER&show_icons=true&theme=react&bg_color=ffffff&border_color=b3e5fc&title_color=03a9f4&text_color=546e7a" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
-
-</div>
+# 👋 SIEMA, JESTEM TWÓJ_USER
+### `PROFESSIONAL MINECRAFT SCRIPTING & TECHNICAL SOLUTIONS`
 
 ---
-
-### 🛠️ Moje Zaplecze Techniczne
-Zawsze stawiam na wydajność. Moje skrypty nie obciążają procesora, bo dbam o każdy event i zmienną.
-
-| Technologia | Poziom | Zastosowanie |
-| :--- | :--- | :--- |
-| **Skript (MC)** | Ekspert | Zaawansowane systemy GUI, NBT, API Integration |
-| **Java** | Średni | Proste pluginy pod Spigot/Paper |
-| **YAML/JSON** | Zaawansowany | Konfiguracje i bazy danych typu flat-file |
-| **Git/GitHub** | Średni | Version control i zarządzanie projektami |
-
----
-
-### 🚀 Wybrane Projekty (Showcase)
 
 <table border="0">
   <tr>
-    <td>
-      <img src="https://via.placeholder.com/400x200/e1f5fe/01579b?text=Zaawansowany+System+Gildii" width="100%" /><br>
-      **☁️ CloudGuilds**<br>
-      Skrypt na gildie zoptymalizowany pod 200+ graczy. Zero lagów, pełne GUI.<br>
-      `#Skript` `#Optimization` `#Professional`
+    <td width="60%" bgcolor="#f0f9ff">
+      <br>
+      <h3> 🧊 ARCHITEKTURA SKRYPTÓW</h3>
+      <p>Tworzę systemy, które nie tylko działają, ale są <b>zoptymalizowane pod kątem zużycia pamięci RAM i CPU</b>. Każdy event jest przemyślany.</p>
+      <img src="https://img.shields.io/badge/Logic-Optimization-b3e5fc?style=flat-square" />
     </td>
-    <td>
-      <img src="https://via.placeholder.com/400x200/e1f5fe/01579b?text=System+Ekonomii+V2" width="100%" /><br>
-      **💎 SkyEconomy**<br>
-      Autorski system waluty zintegrowany z bazą danych i sklepami u NPC.<br>
-      `#Economy` `#Database` `#CleanCode`
+    <td width="40%" bgcolor="#ffffff" align="center">
+       <img src="https://via.placeholder.com/300x180/b3e5fc/ffffff?text=CLEAN+CODE" width="100%" style="border-radius: 15px;" />
+    </td>
+  </tr>
+</table>
+
+<table border="0">
+  <tr>
+    <td width="33%" align="center">
+      <h4>⚡ SZYBKOŚĆ</h4>
+      <p><small>Błyskawiczne poprawki i wdrożenia na serwer.</small></p>
+    </td>
+    <td width="33%" align="center">
+      <h4>🛡️ BEZPIECZEŃSTWO</h4>
+      <p><small>Zabezpieczenia przed exploitami i crashami.</small></p>
+    </td>
+    <td width="33%" align="center">
+      <h4>🎨 UI/UX</h4>
+      <p><small>Nowoczesne GUI oparte o fonty i symbole.</small></p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📫 Znajdziesz mnie tutaj:
+## 💎 WYBRANE DZIEŁA
+*Projekty, które definiują jakość moich skryptów.*
 
-<p align="left">
-<a href="https://discord.com/users/TWÓJ_ID"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="mailto:twój@email.com"><img src="https://img.shields.io/badge/Email-b3e5fc?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=b3e5fc&height=100&section=footer" width="100%" />
+<img src="https://via.placeholder.com/1000x400/b3e5fc/ffffff?text=SYSTEM+GILDII+V3+--+PREMIUM+EXPERIENCE" width="100%" style="border-radius: 20px;" />
+<p align="right"><i>01. CLOUD-GUILDS — KOMPLEKSOWY SYSTEM ZARZĄDZANIA</i></p>
+
+<br>
+
+<img src="https://via.placeholder.com/1000x400/e1f5fe/01579b?text=ADVANCED+ECONOMY+CORE" width="100%" style="border-radius: 20px;" />
+<p align="right"><i>02. CORE-ECON — SILNIK EKONOMICZNY DLA DUŻYCH SIECI</i></p>
+
+---
+
+## 📊 TECH STACK & STATS
+
+<img src="https://github-readme-stats.vercel.app/api?username=TWÓJ_USER&show_icons=true&theme=transparent&title_color=03a9f4&text_color=546e7a&icon_color=b3e5fc&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWÓJ_USER&layout=compact&theme=transparent&title_color=03a9f4&text_color=546e7a&hide_border=true" width="48%" />
+
+---
+
+## 🤝 CHCESZ COŚ ZBUDOWAĆ?
+*Aktualnie przyjmuję zlecenia na zaawansowane skrypty.*
+
+[ DISCORD ](https://discord.com) • [ PORTFOLIO ](https://twoja-strona.pl) • [ EMAIL ](mailto:kontakt@twoj.pl)
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=b3e5fc&height=10&section=footer" width="100%" />
+</div>
