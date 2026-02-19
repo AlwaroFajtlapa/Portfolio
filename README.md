@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=b3e5fc&height=250&section=header&text=Twoja%20Nazwa&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
-### ☁️ Lightweight Code | Professional Scripts | Creative Solutions
+### ☁️ Premium Creator | Bot Developer | Skript Developer
 *Pasja do optymalizacji i czystego kodu w świecie Minecrafta.*
 
 ---
